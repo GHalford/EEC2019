@@ -11,7 +11,7 @@ sparrow_cage2.py and format_interactions.py were created by Alexander Flynn-Caro
 │   ├── creates one total.csv file that contains all interactions within that network 
 ├── sociality_scores.R    <-  Initial analysis of RFID data for gain sociality scores
 │   ├── creates sociality scores from the interation data contained in total.csv
-│   ├──files needed for each network are coh_sex.csv, validcolourcodes.csv, tblAllCodes.csv and total.scv
+│   ├──files needed for each network are coh_sex.csv, validcolourcodes.csv, tblAllCodes.csv and total.csv
 │   ├──coh_sex.csv<-contains a column of bird ID against a cloumn of sex and a column with their cohort year 
 │   ├──validcolourcodes.csv<-contains a birdID column against a column with their ring colour codes 
 │   ├──tblAllCodes.csv<-birdID column and a column with their transponder numbers
